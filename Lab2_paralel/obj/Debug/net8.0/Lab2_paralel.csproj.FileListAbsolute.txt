@@ -1,0 +1,14 @@
+C:\Users\Comp\source\repos\Lab2_paralel\bin\Debug\net8.0\Lab2_paralel.exe
+C:\Users\Comp\source\repos\Lab2_paralel\bin\Debug\net8.0\Lab2_paralel.deps.json
+C:\Users\Comp\source\repos\Lab2_paralel\bin\Debug\net8.0\Lab2_paralel.runtimeconfig.json
+C:\Users\Comp\source\repos\Lab2_paralel\bin\Debug\net8.0\Lab2_paralel.dll
+C:\Users\Comp\source\repos\Lab2_paralel\bin\Debug\net8.0\Lab2_paralel.pdb
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\Lab2_paralel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\Lab2_paralel.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\Lab2_paralel.AssemblyInfo.cs
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\Lab2_paralel.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\Lab2_paralel.dll
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\refint\Lab2_paralel.dll
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\Lab2_paralel.pdb
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\Lab2_paralel.genruntimeconfig.cache
+C:\Users\Comp\source\repos\Lab2_paralel\obj\Debug\net8.0\ref\Lab2_paralel.dll
